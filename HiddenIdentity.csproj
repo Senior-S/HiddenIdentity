@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net461</TargetFramework>
+    <PackageLicenseExpression>EUPL-1.2</PackageLicenseExpression>
+	  <PackageTags>openmod openmod-plugin unturned</PackageTags>
+	  <RootNamespace>HiddenIdentity</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <GenerateNugetPackage>true</GenerateNugetPackage>
+    <Product>HiddenIdentity</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+	<PackageReference Include="OpenMod.UnityEngine.Redist" Version="2018.4.23" />
+    <PackageReference Include="Legacy2CPSWorkaround" Version="1.0.0">
+      <PrivateAssets>All</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies.net461" Version="1.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="OpenMod.Unturned" Version="1.2.1" />
+    <PackageReference Include="OpenMod.Unturned.Redist" Version="3.20.7" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <PackageId>SS.HiddenIdentity</PackageId>
+    <PackageDescription>Now you can be a good thief, if you have a mask anyone cant see your name!</PackageDescription>
+    <PackageLicenseExpression>EUPL-1.2</PackageLicenseExpression>
+    <PackageAuthor>Senior S</PackageAuthor>
+    <PackageTags>openmod openmod-plugin unturned</PackageTags>
+    <Version>1.1.0</Version>
+    <AssemblyVersion>1.1.0</AssemblyVersion>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <GenerateNugetPackage>true</GenerateNugetPackage>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="config.yaml" />
+  </ItemGroup>
+
+</Project>
