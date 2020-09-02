@@ -1,4 +1,4 @@
-# HiddenIdentity-OpenMod
+# HiddenIdentity-RocketMod
 Now you can be a good thief, if you have a mask anyone cant see your name!
 
 **All masks ids can be changed in the config!**
