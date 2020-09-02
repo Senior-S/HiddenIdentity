@@ -1,11 +1,12 @@
-﻿using System;
+﻿using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
-using Rocket.Core.Logging;
+using Rocket.API;
 using Rocket.Core.Plugins;
-using Rocket.Core.Utils;
+using Rocket.Unturned.Player;
 using SDG.Unturned;
+using UnityEngine;
+using Logger = Rocket.Core.Logging.Logger;
 
 namespace HiddenIdentity
 {
@@ -42,26 +43,30 @@ namespace HiddenIdentity
                     Player victimPlayer = RaycastHelper.GetPlayer(client[i], 15);
                     if (victimPlayer == player)
                     {
+                        var user = UnturnedPlayer.FromPlayer(client[i]);
+                        if (user.HasPermission(Configuration.Instance.override_permission))
+                        {
+                            return;
+                        }
                         client[i].setPluginWidgetFlag(EPluginWidgetFlags.ShowInteractWithEnemy, false);
-                        TaskDispatcher.QueueOnMainThread(CheckPlayer(client[i], player));
+                        StartCoroutine(CheckPlayer(client[i], player));
                     }
                 }
             }
         }
 
-        public System.Action CheckPlayer(Player user, Player mask)
+        public IEnumerator CheckPlayer(Player user, Player mask)
         {
-            Task.Delay(TimeSpan.FromSeconds(3));
+            yield return new WaitForSeconds(3);
             if (user.look.player == mask)
             {
-                TaskDispatcher.QueueOnMainThread(CheckPlayer(user, mask));
-                return null;
+                StartCoroutine(CheckPlayer(user, mask));
             }
             else
             {
                 user.setPluginWidgetFlag(EPluginWidgetFlags.ShowInteractWithEnemy, true);
-                return null;
             }
+
         }
     }
 }
