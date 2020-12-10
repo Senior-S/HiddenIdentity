@@ -1,0 +1,136 @@
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\HiddenIdentity.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\HiddenIdentity.pdb
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\Assembly-CSharp.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\Rocket.API.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\Rocket.Core.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\Rocket.Unturned.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.UI.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\Unity.Postprocessing.Runtime.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\Pathfinding.JsonFx.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\Pathfinding.ClipperLib.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\Pathfinding.Poly2Tri.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.CrashLog.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\obj\Debug\HiddenIdentity.csprojAssemblyReference.cache
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\obj\Debug\HiddenIdentity.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\obj\Debug\HiddenIdentity.csproj.CopyComplete
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\obj\Debug\HiddenIdentity.dll
+C:\Users\maxim\Desktop\Plugins\RocketModPlugins\HiddenIdentity\obj\Debug\HiddenIdentity.pdb
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\HiddenIdentity.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\HiddenIdentity.pdb
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.TextRenderingModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.IMGUIModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.AnimationModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.AudioModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\Unity.TextMeshPro.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.TerrainModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.VehiclesModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.ParticleSystemModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.UI.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.WindModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\Newtonsoft.Json.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\Unity.Postprocessing.Runtime.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.UIModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\Pathfinding.JsonFx.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\Pathfinding.ClipperLib.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\Pathfinding.Poly2Tri.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.ImageConversionModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.JSONSerializeModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.Physics2DModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.CrashLog.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.VRModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.SharedInternalsModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.ClothModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.AccessibilityModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.AIModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.ClusterInputModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.ClusterRendererModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.DirectorModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.GridModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.LocalizationModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.SpriteMaskModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.SpriteShapeModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.StreamingModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.StyleSheetsModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.TilemapModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.UnityConnectModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.VFXModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.VideoModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.UNETModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.GameCenterModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.InputModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.TextCoreModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.UIElementsModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.XRModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.ARModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.CrashReportingModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\obj\Debug\HiddenIdentity.csprojAssemblyReference.cache
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\obj\Debug\HiddenIdentity.csproj.CoreCompileInputs.cache
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\obj\Debug\HiddenIdentity.csproj.CopyComplete
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\obj\Debug\HiddenIdentity.dll
+E:\Copia de seguridad\Plugins\RocketModPlugins\HiddenIdentity\obj\Debug\HiddenIdentity.pdb

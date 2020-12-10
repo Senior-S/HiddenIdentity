@@ -14,8 +14,8 @@ namespace HiddenIdentity
     {
         protected override void Load()
         {
-            Logger.Log("[HiddenIdentity] Plugin loaded correctly!");
-            Logger.Log("If you have any error you can contact the owner in discord: Senior S#9583");
+            Logger.Log(" Plugin loaded correctly!");
+            Logger.Log(" More plugins: www.dvtserver.xyz");
             Provider.onEnemyConnected += OnEnemyConnected;
             Provider.onEnemyDisconnected += OnEnemyDisconnected;
         }
