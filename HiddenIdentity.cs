@@ -16,57 +16,26 @@ namespace HiddenIdentity
         {
             Logger.Log(" Plugin loaded correctly!");
             Logger.Log(" More plugins: www.dvtserver.xyz");
-            Provider.onEnemyConnected += OnEnemyConnected;
-            Provider.onEnemyDisconnected += OnEnemyDisconnected;
+            StartCoroutine(CheckPlayer());
         }
 
-        private void OnEnemyConnected(SteamPlayer player)
+        public IEnumerator CheckPlayer()
         {
-            player.player.clothing.onMaskUpdated += (newMask, newMaskQuality, newMaskState) => OnMaskUpdated(player.player, newMask, newMaskQuality, newMaskState);
-        }
-
-        private void OnEnemyDisconnected(SteamPlayer player)
-        {
-            player.player.clothing.onMaskUpdated -= (newMask, newMaskQuality, newMaskState) => OnMaskUpdated(player.player, newMask, newMaskQuality, newMaskState);
-        }
-
-        private void OnMaskUpdated(Player player, ushort newMask, byte newMaskQuality, byte[] newMaskState)
-        {
-            var ids = Configuration.Instance.hidden_masks.Split(',');
-            if (ids.Contains(newMask.ToString()))
+            yield return new WaitForFixedUpdate();
+            List<string> ids = Configuration.Instance.hidden_masks.Split(',').ToList();
+            foreach (var client in Provider.clients)
             {
-                List<Player> client = new List<Player>();
-                PlayerTool.getPlayersInRadius(player.movement.move, 15f, client);
-                for (int i = 0; i < client.Count; i++)
+                Player user = client.player;
+                Player victimPlayer = RaycastHelper.GetPlayer(user, 15);
+                if (ids.Contains(victimPlayer.clothing.mask.ToString()))
                 {
-                    if (client[i] == player) return;
-                    Player victimPlayer = RaycastHelper.GetPlayer(client[i], 15);
-                    if (victimPlayer == player)
-                    {
-                        var user = UnturnedPlayer.FromPlayer(client[i]);
-                        if (user.HasPermission(Configuration.Instance.override_permission))
-                        {
-                            return;
-                        }
-                        client[i].setPluginWidgetFlag(EPluginWidgetFlags.ShowInteractWithEnemy, false);
-                        StartCoroutine(CheckPlayer(client[i], player));
-                    }
+                    user.disablePluginWidgetFlag(EPluginWidgetFlags.ShowInteractWithEnemy);
+                }
+                else
+                {
+                    user.enablePluginWidgetFlag(EPluginWidgetFlags.ShowInteractWithEnemy);
                 }
             }
-        }
-
-        public IEnumerator CheckPlayer(Player user, Player mask)
-        {
-            yield return new WaitForSeconds(3);
-            if (user.look.player == mask)
-            {
-                StartCoroutine(CheckPlayer(user, mask));
-            }
-            else
-            {
-                user.setPluginWidgetFlag(EPluginWidgetFlags.ShowInteractWithEnemy, true);
-            }
-
         }
     }
 }
