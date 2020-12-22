@@ -1,24 +1,23 @@
-﻿using SDG.Unturned;
+﻿using Rocket.API;
+using Rocket.Unturned.Player;
+using SDG.Unturned;
 using UnityEngine;
 
 namespace HiddenIdentity
 {
     public class RaycastHelper
     {
-        public static Player GetPlayer(Player caller, float maxDistance)
+        public static Transform Raycast(IRocketPlayer rocketPlayer, float distance)
         {
-            var hits = Physics.RaycastAll(new Ray(caller.look.aim.position, caller.look.aim.forward), maxDistance, RayMasks.PLAYER_INTERACT | RayMasks.PLAYER);
-            Player player = null;
-            for (int i = 0; i < hits.Length; i++)
+            UnturnedPlayer player = (UnturnedPlayer)rocketPlayer;
+            if (Physics.Raycast(player.Player.look.aim.position, player.Player.look.aim.forward, out RaycastHit hit, distance, RayMasks.PLAYER_INTERACT | RayMasks.PLAYER))
             {
-                Player suspect = hits[i].transform.GetComponentInParent<Player>();
-                if (suspect != caller)
-                {
-                    player = suspect;
-                    break;
-                }
+                Transform transform = hit.transform;
+
+
+                return transform;
             }
-            return player;
+            return null;
         }
     }
 }
